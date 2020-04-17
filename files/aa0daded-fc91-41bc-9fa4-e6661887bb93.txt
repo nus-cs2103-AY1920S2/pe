@@ -1,0 +1,652 @@
+Apr 17, 2020 2:06:48 PM modulo.MainApp init
+INFO: =============================[ Initializing Modulo ]===========================
+Apr 17, 2020 2:06:48 PM modulo.MainApp initConfig
+INFO: Using config file : config.json
+Apr 17, 2020 2:06:48 PM modulo.commons.util.JsonUtil readJsonFile
+INFO: Json file config.json not found
+Apr 17, 2020 2:06:49 PM modulo.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Apr 17, 2020 2:06:49 PM modulo.commons.util.JsonUtil readJsonFile
+INFO: Json file preferences.json not found
+Apr 17, 2020 2:06:49 PM modulo.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Apr 17, 2020 2:06:49 PM modulo.commons.util.JsonUtil readJsonFile
+INFO: Json file data\modulo.json not found
+Apr 17, 2020 2:06:49 PM modulo.MainApp initModelManager
+INFO: Data file not found. Will be starting with an empty Calendar
+Apr 17, 2020 2:06:49 PM modulo.MainApp start
+INFO: Starting Modulo V0.6.0ea
+Apr 17, 2020 2:06:49 PM modulo.ui.UiManager start
+INFO: Starting UI...
+Apr 17, 2020 2:10:04 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][module]
+Apr 17, 2020 2:10:04 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][module]
+Apr 17, 2020 2:10:04 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][]
+Apr 17, 2020 2:10:04 PM modulo.ui.MainWindow executeCommand
+INFO: Invalid command: module
+Apr 17, 2020 2:10:20 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][list e]
+Apr 17, 2020 2:10:20 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][list]
+Apr 17, 2020 2:10:20 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ e]
+Apr 17, 2020 2:10:20 PM modulo.ui.MainWindow executeCommand
+INFO: Result: Showing events!
+Apr 17, 2020 2:10:21 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][list m]
+Apr 17, 2020 2:10:21 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][list]
+Apr 17, 2020 2:10:21 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ m]
+Apr 17, 2020 2:10:21 PM modulo.ui.MainWindow executeCommand
+INFO: Result: Showing modules!
+Apr 17, 2020 2:10:27 PM modulo.MainApp stop
+INFO: ============================ [ Stopping Modulo ] =============================
+Apr 17, 2020 2:10:35 PM modulo.MainApp init
+INFO: =============================[ Initializing Modulo ]===========================
+Apr 17, 2020 2:10:35 PM modulo.MainApp initConfig
+INFO: Using config file : config.json
+Apr 17, 2020 2:10:35 PM modulo.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Apr 17, 2020 2:10:35 PM modulo.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Apr 17, 2020 2:10:35 PM modulo.MainApp start
+INFO: Starting Modulo V0.6.0ea
+Apr 17, 2020 2:10:35 PM modulo.ui.UiManager start
+INFO: Starting UI...
+Apr 17, 2020 2:11:55 PM modulo.MainApp stop
+INFO: ============================ [ Stopping Modulo ] =============================
+Apr 17, 2020 2:12:59 PM modulo.MainApp init
+INFO: =============================[ Initializing Modulo ]===========================
+Apr 17, 2020 2:12:59 PM modulo.MainApp initConfig
+INFO: Using config file : config.json
+Apr 17, 2020 2:12:59 PM modulo.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Apr 17, 2020 2:12:59 PM modulo.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Apr 17, 2020 2:12:59 PM modulo.MainApp start
+INFO: Starting Modulo V0.6.0ea
+Apr 17, 2020 2:12:59 PM modulo.ui.UiManager start
+INFO: Starting UI...
+Apr 17, 2020 2:13:26 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][module]
+Apr 17, 2020 2:13:26 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][module]
+Apr 17, 2020 2:13:26 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][]
+Apr 17, 2020 2:13:26 PM modulo.ui.MainWindow executeCommand
+INFO: Invalid command: module
+Apr 17, 2020 2:13:30 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][module m/CS1010S]
+Apr 17, 2020 2:13:30 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][module]
+Apr 17, 2020 2:13:30 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ m/CS1010S]
+Apr 17, 2020 2:13:30 PM modulo.ui.MainWindow executeCommand
+INFO: Result: New module added: CS1010S | Programming Methodology | AY 2019/2020 Sem 2
+
+Enter slot for CS1010S Tutorial:
+Apr 17, 2020 2:13:40 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][1]
+Apr 17, 2020 2:13:40 PM modulo.ui.MainWindow executeCommand
+INFO: Result: Enter slot for CS1010S Recitation:
+Apr 17, 2020 2:13:43 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][2]
+Apr 17, 2020 2:13:43 PM modulo.ui.MainWindow executeCommand
+INFO: Result: Enter slot for CS1010S Lecture:
+Apr 17, 2020 2:13:45 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][1]
+Apr 17, 2020 2:13:45 PM modulo.ui.MainWindow executeCommand
+INFO: Result: All events added!
+Apr 17, 2020 2:13:50 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][help]
+Apr 17, 2020 2:13:50 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][help]
+Apr 17, 2020 2:13:50 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][]
+Apr 17, 2020 2:13:50 PM modulo.ui.MainWindow executeCommand
+INFO: Result: Opened help window.
+Apr 17, 2020 2:16:03 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][find]
+Apr 17, 2020 2:16:03 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][find]
+Apr 17, 2020 2:16:03 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][]
+Apr 17, 2020 2:16:03 PM modulo.ui.MainWindow executeCommand
+INFO: Invalid command: find
+Apr 17, 2020 2:16:05 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][find p]
+Apr 17, 2020 2:16:05 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][find]
+Apr 17, 2020 2:16:05 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ p]
+Apr 17, 2020 2:16:05 PM modulo.ui.MainWindow executeCommand
+INFO: Result: 1 modules listed containing "p"!
+To return to the original list view, try:
+list events / list modules
+Apr 17, 2020 2:16:14 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][module m/CS1010]
+Apr 17, 2020 2:16:14 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][module]
+Apr 17, 2020 2:16:14 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ m/CS1010]
+Apr 17, 2020 2:16:14 PM modulo.ui.MainWindow executeCommand
+INFO: Result: New module added: CS1010 | Programming Methodology | AY 2019/2020 Sem 2
+
+Enter slot for CS1010 Tutorial:
+Apr 17, 2020 2:16:21 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][module m/CS1010E]
+Apr 17, 2020 2:16:21 PM modulo.ui.MainWindow executeCommand
+INFO: Invalid command: module m/CS1010E
+Apr 17, 2020 2:16:25 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][1]
+Apr 17, 2020 2:16:25 PM modulo.ui.MainWindow executeCommand
+INFO: Result: Enter slot for CS1010 Sectional Teaching:
+Apr 17, 2020 2:16:26 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][1]
+Apr 17, 2020 2:16:26 PM modulo.ui.MainWindow executeCommand
+INFO: Result: All events added!
+Apr 17, 2020 2:16:38 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][m/CS1010FC]
+Apr 17, 2020 2:16:38 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][m/CS1010FC]
+Apr 17, 2020 2:16:38 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][]
+Apr 17, 2020 2:16:38 PM modulo.ui.MainWindow executeCommand
+INFO: Invalid command: m/CS1010FC
+Apr 17, 2020 2:16:44 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][module m/CS1010FC]
+Apr 17, 2020 2:16:44 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][module]
+Apr 17, 2020 2:16:44 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ m/CS1010FC]
+Apr 17, 2020 2:16:44 PM modulo.ui.MainWindow executeCommand
+INFO: Invalid command: module m/CS1010FC
+Apr 17, 2020 2:16:49 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][module m/CSX]
+Apr 17, 2020 2:16:49 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][module]
+Apr 17, 2020 2:16:49 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ m/CSX]
+Apr 17, 2020 2:16:49 PM modulo.ui.MainWindow executeCommand
+INFO: Invalid command: module m/CSX
+Apr 17, 2020 2:16:54 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][module m/CM4991]
+Apr 17, 2020 2:16:54 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][module]
+Apr 17, 2020 2:16:54 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ m/CM4991]
+Apr 17, 2020 2:16:54 PM modulo.ui.MainWindow executeCommand
+INFO: Invalid command: module m/CM4991
+Apr 17, 2020 2:16:55 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][module m/CM4992]
+Apr 17, 2020 2:16:55 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][module]
+Apr 17, 2020 2:16:55 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ m/CM4992]
+Apr 17, 2020 2:16:55 PM modulo.ui.MainWindow executeCommand
+INFO: Invalid command: module m/CM4992
+Apr 17, 2020 2:17:03 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][module m/CM1121]
+Apr 17, 2020 2:17:03 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][module]
+Apr 17, 2020 2:17:03 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ m/CM1121]
+Apr 17, 2020 2:17:03 PM modulo.ui.MainWindow executeCommand
+INFO: Result: New module added: CM1121 | Organic Chemistry 1 | AY 2019/2020 Sem 2
+
+Enter slot for CM1121 Tutorial:
+Apr 17, 2020 2:17:20 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][1]
+Apr 17, 2020 2:17:20 PM modulo.ui.MainWindow executeCommand
+INFO: Result: Enter slot for CM1121 Lecture:
+Apr 17, 2020 2:17:20 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][1]
+Apr 17, 2020 2:17:20 PM modulo.ui.MainWindow executeCommand
+INFO: Result: All events added!
+Apr 17, 2020 2:17:26 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][module m/BT3101]
+Apr 17, 2020 2:17:26 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][module]
+Apr 17, 2020 2:17:26 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ m/BT3101]
+Apr 17, 2020 2:17:26 PM modulo.ui.MainWindow executeCommand
+INFO: Result: New module added: BT3101 | Business Analytics Capstone Project | AY 2019/2020 Sem 2
+
+Enter slot for BT3101 Lecture:
+Apr 17, 2020 2:18:04 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][1]
+Apr 17, 2020 2:18:04 PM modulo.ui.MainWindow executeCommand
+INFO: Result: All events added!
+Apr 17, 2020 2:18:09 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][module m/CM4199A]
+Apr 17, 2020 2:18:09 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][module]
+Apr 17, 2020 2:18:09 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ m/CM4199A]
+Apr 17, 2020 2:18:09 PM modulo.ui.MainWindow executeCommand
+INFO: Result: New module added: CM4199A | Honours Project in Chemistry | AY 2019/2020 Sem 2
+Apr 17, 2020 2:18:36 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 4]
+Apr 17, 2020 2:18:36 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:18:36 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 4]
+Apr 17, 2020 2:18:36 PM modulo.ui.MainWindow executeCommand
+INFO: Result: BT3101 | Business Analytics Capstone Project | AY 2019/2020 Sem 2 is in view!
+Apr 17, 2020 2:18:38 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 5]
+Apr 17, 2020 2:18:38 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:18:38 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 5]
+Apr 17, 2020 2:18:38 PM modulo.ui.MainWindow executeCommand
+INFO: Result: CM4199A | Honours Project in Chemistry | AY 2019/2020 Sem 2 is in view!
+Apr 17, 2020 2:18:40 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view]
+Apr 17, 2020 2:18:40 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:18:40 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][]
+Apr 17, 2020 2:18:40 PM modulo.ui.MainWindow executeCommand
+INFO: Invalid command: view
+Apr 17, 2020 2:18:42 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 6]
+Apr 17, 2020 2:18:42 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:18:42 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 6]
+Apr 17, 2020 2:18:42 PM modulo.ui.MainWindow executeCommand
+INFO: Invalid command: view 6
+Apr 17, 2020 2:18:44 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 1]
+Apr 17, 2020 2:18:44 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:18:44 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 1]
+Apr 17, 2020 2:18:44 PM modulo.ui.MainWindow executeCommand
+INFO: Result: CS1010S | Programming Methodology | AY 2019/2020 Sem 2 is in view!
+Apr 17, 2020 2:18:46 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 0]
+Apr 17, 2020 2:18:46 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:18:46 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 0]
+Apr 17, 2020 2:18:46 PM modulo.ui.MainWindow executeCommand
+INFO: Invalid command: view 0
+Apr 17, 2020 2:18:49 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 0view 9999999999]
+Apr 17, 2020 2:18:49 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:18:49 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 0view 9999999999]
+Apr 17, 2020 2:18:49 PM modulo.ui.MainWindow executeCommand
+INFO: Invalid command: view 0view 9999999999
+Apr 17, 2020 2:18:54 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 001]
+Apr 17, 2020 2:18:54 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:18:54 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 001]
+Apr 17, 2020 2:18:54 PM modulo.ui.MainWindow executeCommand
+INFO: Result: CS1010S | Programming Methodology | AY 2019/2020 Sem 2 is in view!
+Apr 17, 2020 2:18:57 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 0x03]
+Apr 17, 2020 2:18:57 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:18:57 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 0x03]
+Apr 17, 2020 2:18:57 PM modulo.ui.MainWindow executeCommand
+INFO: Invalid command: view 0x03
+Apr 17, 2020 2:19:02 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 0-1]
+Apr 17, 2020 2:19:02 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:19:02 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 0-1]
+Apr 17, 2020 2:19:02 PM modulo.ui.MainWindow executeCommand
+INFO: Invalid command: view 0-1
+Apr 17, 2020 2:19:05 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 0000006]
+Apr 17, 2020 2:19:05 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:19:05 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 0000006]
+Apr 17, 2020 2:19:05 PM modulo.ui.MainWindow executeCommand
+INFO: Invalid command: view 0000006
+Apr 17, 2020 2:19:42 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][deadline m/CS1010S ]
+Apr 17, 2020 2:19:42 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][deadline]
+Apr 17, 2020 2:19:42 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ m/CS1010S]
+Apr 17, 2020 2:19:42 PM modulo.ui.MainWindow executeCommand
+INFO: Invalid command: deadline m/CS1010S 
+Apr 17, 2020 2:20:09 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][deadline m/CS1010S e/Tutorial 1 n/hello ]
+Apr 17, 2020 2:20:09 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][deadline]
+Apr 17, 2020 2:20:09 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ m/CS1010S e/Tutorial 1 n/hello]
+Apr 17, 2020 2:20:09 PM modulo.ui.MainWindow executeCommand
+INFO: Result: New deadline added: hello
+Apr 17, 2020 2:20:20 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view CS1010S]
+Apr 17, 2020 2:20:20 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:20:20 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ CS1010S]
+Apr 17, 2020 2:20:20 PM modulo.ui.MainWindow executeCommand
+INFO: Invalid command: view CS1010S
+Apr 17, 2020 2:20:24 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 1]
+Apr 17, 2020 2:20:24 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:20:24 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 1]
+Apr 17, 2020 2:20:24 PM modulo.ui.MainWindow executeCommand
+INFO: Result: CS1010S | Programming Methodology | AY 2019/2020 Sem 2 is in view!
+Apr 17, 2020 2:20:30 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][list events]
+Apr 17, 2020 2:20:30 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][list]
+Apr 17, 2020 2:20:30 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ events]
+Apr 17, 2020 2:20:30 PM modulo.ui.MainWindow executeCommand
+INFO: Result: Showing events!
+Apr 17, 2020 2:21:02 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 9]
+Apr 17, 2020 2:21:02 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:21:02 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 9]
+Apr 17, 2020 2:21:02 PM modulo.ui.MainWindow executeCommand
+INFO: Result: CS1010 | Tutorial 2 is in view!
+Apr 17, 2020 2:21:56 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][deadline m/CS1010S m/CS2103 e/Tutorial 2 n/hello [r/REPEAT]]
+Apr 17, 2020 2:21:56 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][deadline]
+Apr 17, 2020 2:21:56 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ m/CS1010S m/CS2103 e/Tutorial 2 n/hello [r/REPEAT]]
+Apr 17, 2020 2:21:56 PM modulo.ui.MainWindow executeCommand
+INFO: Invalid command: deadline m/CS1010S m/CS2103 e/Tutorial 2 n/hello [r/REPEAT]
+Apr 17, 2020 2:22:04 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][deadline m/CS1010S m/CS2103 e/Tutorial 2 n/hello]
+Apr 17, 2020 2:22:04 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][deadline]
+Apr 17, 2020 2:22:04 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ m/CS1010S m/CS2103 e/Tutorial 2 n/hello]
+Apr 17, 2020 2:22:04 PM modulo.ui.MainWindow executeCommand
+INFO: Invalid command: deadline m/CS1010S m/CS2103 e/Tutorial 2 n/hello
+Apr 17, 2020 2:22:12 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][deadline m/CS1010S e/Tutorial 2 n/hello]
+Apr 17, 2020 2:22:12 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][deadline]
+Apr 17, 2020 2:22:12 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ m/CS1010S e/Tutorial 2 n/hello]
+Apr 17, 2020 2:22:12 PM modulo.ui.MainWindow executeCommand
+INFO: Result: New deadline added: hello
+Apr 17, 2020 2:22:19 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 9]
+Apr 17, 2020 2:22:19 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:22:19 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 9]
+Apr 17, 2020 2:22:19 PM modulo.ui.MainWindow executeCommand
+INFO: Result: CS1010 | Tutorial 2 is in view!
+Apr 17, 2020 2:22:20 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 9]
+Apr 17, 2020 2:22:20 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:22:20 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 9]
+Apr 17, 2020 2:22:20 PM modulo.ui.MainWindow executeCommand
+INFO: Result: CS1010 | Tutorial 2 is in view!
+Apr 17, 2020 2:22:21 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 9]
+Apr 17, 2020 2:22:21 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:22:21 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 9]
+Apr 17, 2020 2:22:21 PM modulo.ui.MainWindow executeCommand
+INFO: Result: CS1010 | Tutorial 2 is in view!
+Apr 17, 2020 2:22:23 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 8]
+Apr 17, 2020 2:22:23 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:22:23 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 8]
+Apr 17, 2020 2:22:23 PM modulo.ui.MainWindow executeCommand
+INFO: Result: CS1010S | Tutorial 2 is in view!
+Apr 17, 2020 2:22:24 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 9]
+Apr 17, 2020 2:22:24 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:22:24 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 9]
+Apr 17, 2020 2:22:24 PM modulo.ui.MainWindow executeCommand
+INFO: Result: CS1010 | Tutorial 2 is in view!
+Apr 17, 2020 2:22:25 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 8]
+Apr 17, 2020 2:22:25 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:22:25 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 8]
+Apr 17, 2020 2:22:25 PM modulo.ui.MainWindow executeCommand
+INFO: Result: CS1010S | Tutorial 2 is in view!
+Apr 17, 2020 2:22:25 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 9]
+Apr 17, 2020 2:22:25 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:22:25 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 9]
+Apr 17, 2020 2:22:25 PM modulo.ui.MainWindow executeCommand
+INFO: Result: CS1010 | Tutorial 2 is in view!
+Apr 17, 2020 2:22:26 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 10]
+Apr 17, 2020 2:22:26 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:22:26 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 10]
+Apr 17, 2020 2:22:26 PM modulo.ui.MainWindow executeCommand
+INFO: Result: BT3101 | Lecture 2 is in view!
+Apr 17, 2020 2:22:27 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 11]
+Apr 17, 2020 2:22:27 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:22:27 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 11]
+Apr 17, 2020 2:22:27 PM modulo.ui.MainWindow executeCommand
+INFO: Result: CS1010 | Sectional Teaching 2 is in view!
+Apr 17, 2020 2:22:28 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 10]
+Apr 17, 2020 2:22:28 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:22:28 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 10]
+Apr 17, 2020 2:22:28 PM modulo.ui.MainWindow executeCommand
+INFO: Result: BT3101 | Lecture 2 is in view!
+Apr 17, 2020 2:22:28 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 9]
+Apr 17, 2020 2:22:28 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:22:28 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 9]
+Apr 17, 2020 2:22:28 PM modulo.ui.MainWindow executeCommand
+INFO: Result: CS1010 | Tutorial 2 is in view!
+Apr 17, 2020 2:22:29 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 8]
+Apr 17, 2020 2:22:29 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:22:29 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 8]
+Apr 17, 2020 2:22:29 PM modulo.ui.MainWindow executeCommand
+INFO: Result: CS1010S | Tutorial 2 is in view!
+Apr 17, 2020 2:22:30 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 3]
+Apr 17, 2020 2:22:30 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:22:30 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 3]
+Apr 17, 2020 2:22:30 PM modulo.ui.MainWindow executeCommand
+INFO: Result: BT3101 | Lecture 1 is in view!
+Apr 17, 2020 2:22:30 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 2]
+Apr 17, 2020 2:22:30 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:22:30 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 2]
+Apr 17, 2020 2:22:30 PM modulo.ui.MainWindow executeCommand
+INFO: Result: CS1010 | Tutorial 1 is in view!
+Apr 17, 2020 2:22:33 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 15]
+Apr 17, 2020 2:22:33 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:22:33 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 15]
+Apr 17, 2020 2:22:33 PM modulo.ui.MainWindow executeCommand
+INFO: Result: CS1010S | Tutorial 3 is in view!
+Apr 17, 2020 2:22:33 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 16]
+Apr 17, 2020 2:22:33 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:22:33 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 16]
+Apr 17, 2020 2:22:33 PM modulo.ui.MainWindow executeCommand
+INFO: Result: CS1010 | Tutorial 3 is in view!
+Apr 17, 2020 2:22:34 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 17]
+Apr 17, 2020 2:22:34 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:22:34 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 17]
+Apr 17, 2020 2:22:34 PM modulo.ui.MainWindow executeCommand
+INFO: Result: BT3101 | Lecture 3 is in view!
+Apr 17, 2020 2:22:34 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 18]
+Apr 17, 2020 2:22:34 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:22:34 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 18]
+Apr 17, 2020 2:22:34 PM modulo.ui.MainWindow executeCommand
+INFO: Result: CS1010 | Sectional Teaching 3 is in view!
+Apr 17, 2020 2:22:35 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 17]
+Apr 17, 2020 2:22:35 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:22:35 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 17]
+Apr 17, 2020 2:22:35 PM modulo.ui.MainWindow executeCommand
+INFO: Result: BT3101 | Lecture 3 is in view!
+Apr 17, 2020 2:22:35 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 17]
+Apr 17, 2020 2:22:35 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:22:35 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 17]
+Apr 17, 2020 2:22:35 PM modulo.ui.MainWindow executeCommand
+INFO: Result: BT3101 | Lecture 3 is in view!
+Apr 17, 2020 2:22:36 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 16]
+Apr 17, 2020 2:22:36 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:22:36 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 16]
+Apr 17, 2020 2:22:36 PM modulo.ui.MainWindow executeCommand
+INFO: Result: CS1010 | Tutorial 3 is in view!
+Apr 17, 2020 2:22:37 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][view 15]
+Apr 17, 2020 2:22:37 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][view]
+Apr 17, 2020 2:22:37 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 15]
+Apr 17, 2020 2:22:37 PM modulo.ui.MainWindow executeCommand
+INFO: Result: CS1010S | Tutorial 3 is in view!
+Apr 17, 2020 2:22:39 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][list m]
+Apr 17, 2020 2:22:39 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][list]
+Apr 17, 2020 2:22:39 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ m]
+Apr 17, 2020 2:22:39 PM modulo.ui.MainWindow executeCommand
+INFO: Result: Showing modules!
+Apr 17, 2020 2:22:42 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][delete]
+Apr 17, 2020 2:22:42 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][delete]
+Apr 17, 2020 2:22:42 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][]
+Apr 17, 2020 2:22:42 PM modulo.ui.MainWindow executeCommand
+INFO: Invalid command: delete
+Apr 17, 2020 2:22:45 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][delete 2]
+Apr 17, 2020 2:22:45 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][delete]
+Apr 17, 2020 2:22:45 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 2]
+Apr 17, 2020 2:22:45 PM modulo.ui.MainWindow executeCommand
+INFO: Result: Deleted module:
+CS1010 | Programming Methodology | AY 2019/2020 Sem 2
+Apr 17, 2020 2:22:47 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][delete 2]
+Apr 17, 2020 2:22:47 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][delete]
+Apr 17, 2020 2:22:47 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 2]
+Apr 17, 2020 2:22:47 PM modulo.ui.MainWindow executeCommand
+INFO: Result: Deleted module:
+CM1121 | Organic Chemistry 1 | AY 2019/2020 Sem 2
+Apr 17, 2020 2:22:50 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][delete 2]
+Apr 17, 2020 2:22:50 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][delete]
+Apr 17, 2020 2:22:50 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 2]
+Apr 17, 2020 2:22:50 PM modulo.ui.MainWindow executeCommand
+INFO: Result: Deleted module:
+BT3101 | Business Analytics Capstone Project | AY 2019/2020 Sem 2
+Apr 17, 2020 2:22:52 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][delete 2]
+Apr 17, 2020 2:22:52 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][delete]
+Apr 17, 2020 2:22:52 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][ 2]
+Apr 17, 2020 2:22:52 PM modulo.ui.MainWindow executeCommand
+INFO: Result: Deleted module:
+CM4199A | Honours Project in Chemistry | AY 2019/2020 Sem 2
+Apr 17, 2020 2:22:55 PM modulo.logic.LogicManager execute
+INFO: ----------------[USER COMMAND][exit]
+Apr 17, 2020 2:22:55 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[COMMAND WORD][exit]
+Apr 17, 2020 2:22:55 PM modulo.logic.parser.ModuloParser parseCommand
+INFO: ----------------[ARGUMENTS][]
+Apr 17, 2020 2:22:55 PM modulo.ui.MainWindow executeCommand
+INFO: Result: Exiting Modulo as requested...
+Apr 17, 2020 2:22:55 PM modulo.MainApp stop
+INFO: ============================ [ Stopping Modulo ] =============================
+Apr 17, 2020 2:24:34 PM modulo.MainApp init
+INFO: =============================[ Initializing Modulo ]===========================
+Apr 17, 2020 2:24:34 PM modulo.MainApp initConfig
+INFO: Using config file : config.json
+Apr 17, 2020 2:24:35 PM modulo.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Apr 17, 2020 2:24:35 PM modulo.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Apr 17, 2020 2:25:06 PM modulo.MainApp init
+INFO: =============================[ Initializing Modulo ]===========================
+Apr 17, 2020 2:25:06 PM modulo.MainApp initConfig
+INFO: Using config file : config.json
+Apr 17, 2020 2:25:07 PM modulo.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Apr 17, 2020 2:25:07 PM modulo.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO
+Apr 17, 2020 2:26:45 PM modulo.MainApp init
+INFO: =============================[ Initializing Modulo ]===========================
+Apr 17, 2020 2:26:45 PM modulo.MainApp initConfig
+INFO: Using config file : config.json
+Apr 17, 2020 2:26:46 PM modulo.MainApp initPrefs
+INFO: Using prefs file : preferences.json
+Apr 17, 2020 2:26:46 PM modulo.commons.core.LogsCenter init
+INFO: currentLogLevel: INFO

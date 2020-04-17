@@ -1,0 +1,553 @@
+{
+  "modules" : [ {
+    "moduleCode" : "CS3216",
+    "academicYear" : "2019/2020+2",
+    "events" : [ {
+      "name" : "Lecture 1A",
+      "eventType" : "Lecture",
+      "eventStart" : "2020-01-14T17:00",
+      "eventEnd" : "2020-01-14T18:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-VCRM",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Prepare for lecture in advance",
+        "dueTime" : "2020-01-14T17:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Lecture 2A",
+      "eventType" : "Lecture",
+      "eventStart" : "2020-01-21T17:00",
+      "eventEnd" : "2020-01-21T18:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-VCRM",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Prepare for lecture in advance",
+        "dueTime" : "2020-01-21T17:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Lecture 3A",
+      "eventType" : "Lecture",
+      "eventStart" : "2020-01-28T17:00",
+      "eventEnd" : "2020-01-28T18:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-VCRM",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Prepare for lecture in advance",
+        "dueTime" : "2020-01-28T17:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Lecture 4A",
+      "eventType" : "Lecture",
+      "eventStart" : "2020-02-04T17:00",
+      "eventEnd" : "2020-02-04T18:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-VCRM",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Prepare for lecture in advance",
+        "dueTime" : "2020-02-04T17:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Lecture 5A",
+      "eventType" : "Lecture",
+      "eventStart" : "2020-02-11T17:00",
+      "eventEnd" : "2020-02-11T18:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-VCRM",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Prepare for lecture in advance",
+        "dueTime" : "2020-02-11T17:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Lecture 6A",
+      "eventType" : "Lecture",
+      "eventStart" : "2020-02-18T17:00",
+      "eventEnd" : "2020-02-18T18:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-VCRM",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Prepare for lecture in advance",
+        "dueTime" : "2020-02-18T17:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Lecture 7A",
+      "eventType" : "Lecture",
+      "eventStart" : "2020-03-03T17:00",
+      "eventEnd" : "2020-02-25T18:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-VCRM",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Prepare for lecture in advance",
+        "dueTime" : "2020-03-03T17:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Lecture 8A",
+      "eventType" : "Lecture",
+      "eventStart" : "2020-03-10T17:00",
+      "eventEnd" : "2020-03-03T18:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-VCRM",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Prepare for lecture in advance",
+        "dueTime" : "2020-03-10T17:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Lecture 9A",
+      "eventType" : "Lecture",
+      "eventStart" : "2020-03-17T17:00",
+      "eventEnd" : "2020-03-10T18:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-VCRM",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Prepare for lecture in advance",
+        "dueTime" : "2020-03-17T17:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Lecture 10A",
+      "eventType" : "Lecture",
+      "eventStart" : "2020-03-24T17:00",
+      "eventEnd" : "2020-03-17T18:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-VCRM",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Prepare for lecture in advance",
+        "dueTime" : "2020-03-24T17:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Lecture 11A",
+      "eventType" : "Lecture",
+      "eventStart" : "2020-03-31T17:00",
+      "eventEnd" : "2020-03-24T18:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-VCRM",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Prepare for lecture in advance",
+        "dueTime" : "2020-03-31T17:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Lecture 12A",
+      "eventType" : "Lecture",
+      "eventStart" : "2020-04-07T17:00",
+      "eventEnd" : "2020-03-31T18:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-VCRM",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Prepare for lecture in advance",
+        "dueTime" : "2020-04-07T17:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Lecture 13A",
+      "eventType" : "Lecture",
+      "eventStart" : "2020-04-14T17:00",
+      "eventEnd" : "2020-04-07T18:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-VCRM",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Prepare for lecture in advance",
+        "dueTime" : "2020-04-14T17:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Lecture 1B",
+      "eventType" : "Lecture",
+      "eventStart" : "2020-01-16T12:00",
+      "eventEnd" : "2020-01-16T14:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-VCRM",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Prepare for lecture in advance",
+        "dueTime" : "2020-01-16T12:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Lecture 2B",
+      "eventType" : "Lecture",
+      "eventStart" : "2020-01-23T12:00",
+      "eventEnd" : "2020-01-23T14:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-VCRM",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Prepare for lecture in advance",
+        "dueTime" : "2020-01-23T12:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Lecture 3B",
+      "eventType" : "Lecture",
+      "eventStart" : "2020-01-30T12:00",
+      "eventEnd" : "2020-01-30T14:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-VCRM",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Prepare for lecture in advance",
+        "dueTime" : "2020-01-30T12:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Lecture 4B",
+      "eventType" : "Lecture",
+      "eventStart" : "2020-02-06T12:00",
+      "eventEnd" : "2020-02-06T14:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-VCRM",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Prepare for lecture in advance",
+        "dueTime" : "2020-02-06T12:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Lecture 5B",
+      "eventType" : "Lecture",
+      "eventStart" : "2020-02-13T12:00",
+      "eventEnd" : "2020-02-13T14:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-VCRM",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Prepare for lecture in advance",
+        "dueTime" : "2020-02-13T12:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Lecture 6B",
+      "eventType" : "Lecture",
+      "eventStart" : "2020-02-20T12:00",
+      "eventEnd" : "2020-02-20T14:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-VCRM",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Prepare for lecture in advance",
+        "dueTime" : "2020-02-20T12:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Lecture 7B",
+      "eventType" : "Lecture",
+      "eventStart" : "2020-03-05T12:00",
+      "eventEnd" : "2020-02-27T14:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-VCRM",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Prepare for lecture in advance",
+        "dueTime" : "2020-03-05T12:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Lecture 8B",
+      "eventType" : "Lecture",
+      "eventStart" : "2020-03-12T12:00",
+      "eventEnd" : "2020-03-05T14:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-VCRM",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Prepare for lecture in advance",
+        "dueTime" : "2020-03-12T12:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Lecture 9B",
+      "eventType" : "Lecture",
+      "eventStart" : "2020-03-19T12:00",
+      "eventEnd" : "2020-03-12T14:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-VCRM",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Prepare for lecture in advance",
+        "dueTime" : "2020-03-19T12:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Lecture 10B",
+      "eventType" : "Lecture",
+      "eventStart" : "2020-03-26T12:00",
+      "eventEnd" : "2020-03-19T14:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-VCRM",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Prepare for lecture in advance",
+        "dueTime" : "2020-03-26T12:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Lecture 11B",
+      "eventType" : "Lecture",
+      "eventStart" : "2020-04-02T12:00",
+      "eventEnd" : "2020-03-26T14:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-VCRM",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Prepare for lecture in advance",
+        "dueTime" : "2020-04-02T12:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Lecture 12B",
+      "eventType" : "Lecture",
+      "eventStart" : "2020-04-09T12:00",
+      "eventEnd" : "2020-04-02T14:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-VCRM",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Prepare for lecture in advance",
+        "dueTime" : "2020-04-09T12:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Lecture 13B",
+      "eventType" : "Lecture",
+      "eventStart" : "2020-04-16T12:00",
+      "eventEnd" : "2020-04-09T14:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-VCRM",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Prepare for lecture in advance",
+        "dueTime" : "2020-04-16T12:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Tutorial 1",
+      "eventType" : "Tutorial",
+      "eventStart" : "2020-01-16T14:00",
+      "eventEnd" : "2020-01-16T16:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-B103",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Do tutorial homework",
+        "dueTime" : "2020-01-16T14:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Tutorial 2",
+      "eventType" : "Tutorial",
+      "eventStart" : "2020-01-23T14:00",
+      "eventEnd" : "2020-01-23T16:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-B103",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Do tutorial homework",
+        "dueTime" : "2020-01-23T14:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Tutorial 3",
+      "eventType" : "Tutorial",
+      "eventStart" : "2020-01-30T14:00",
+      "eventEnd" : "2020-01-30T16:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-B103",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Do tutorial homework",
+        "dueTime" : "2020-01-30T14:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Tutorial 4",
+      "eventType" : "Tutorial",
+      "eventStart" : "2020-02-06T14:00",
+      "eventEnd" : "2020-02-06T16:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-B103",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Do tutorial homework",
+        "dueTime" : "2020-02-06T14:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Tutorial 5",
+      "eventType" : "Tutorial",
+      "eventStart" : "2020-02-13T14:00",
+      "eventEnd" : "2020-02-13T16:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-B103",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Do tutorial homework",
+        "dueTime" : "2020-02-13T14:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Tutorial 6",
+      "eventType" : "Tutorial",
+      "eventStart" : "2020-02-20T14:00",
+      "eventEnd" : "2020-02-20T16:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-B103",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Do tutorial homework",
+        "dueTime" : "2020-02-20T14:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Tutorial 7",
+      "eventType" : "Tutorial",
+      "eventStart" : "2020-03-05T14:00",
+      "eventEnd" : "2020-02-27T16:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-B103",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Do tutorial homework",
+        "dueTime" : "2020-03-05T14:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Tutorial 8",
+      "eventType" : "Tutorial",
+      "eventStart" : "2020-03-12T14:00",
+      "eventEnd" : "2020-03-05T16:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-B103",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Do tutorial homework",
+        "dueTime" : "2020-03-12T14:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Tutorial 9",
+      "eventType" : "Tutorial",
+      "eventStart" : "2020-03-19T14:00",
+      "eventEnd" : "2020-03-12T16:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-B103",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Do tutorial homework",
+        "dueTime" : "2020-03-19T14:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Tutorial 10",
+      "eventType" : "Tutorial",
+      "eventStart" : "2020-03-26T14:00",
+      "eventEnd" : "2020-03-19T16:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-B103",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Do tutorial homework",
+        "dueTime" : "2020-03-26T14:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Tutorial 11",
+      "eventType" : "Tutorial",
+      "eventStart" : "2020-04-02T14:00",
+      "eventEnd" : "2020-03-26T16:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-B103",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Do tutorial homework",
+        "dueTime" : "2020-04-02T14:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Tutorial 12",
+      "eventType" : "Tutorial",
+      "eventStart" : "2020-04-09T14:00",
+      "eventEnd" : "2020-04-02T16:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-B103",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Do tutorial homework",
+        "dueTime" : "2020-04-09T14:00",
+        "isCompleted" : "false"
+      } ]
+    }, {
+      "name" : "Tutorial 13",
+      "eventType" : "Tutorial",
+      "eventStart" : "2020-04-16T14:00",
+      "eventEnd" : "2020-04-09T16:00",
+      "parentModuleCode" : "CS3217",
+      "academicYear" : "2019/2020+2",
+      "location" : "COM1-B103",
+      "slot" : "1",
+      "deadlines" : [ {
+        "name" : "Do tutorial homework",
+        "dueTime" : "2020-04-16T14:00",
+        "isCompleted" : "false"
+      } ]
+    } ]
+  } ]
+}
